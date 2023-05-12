@@ -1,8 +1,5 @@
-![](https://github.com/U7P4L-IN/U7P4L-IN/blob/main/Python.gif)
- 
- 
- 
-🇧🇩Welcome🎭
+
+🎭Welcome🇧🇩
 --------|
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
  
@@ -31,13 +28,13 @@ AUTHOR:
  pip install mechanize
  cd $HOME 
  rm -rf ItsRakibRoni-01.py
- git clone https://github.com/rakibroni2468/ItsRakibRoni-01.py
+ git clone https://github.com/Fire/Roni-Fire.py
  
- cd ItsRakibRoni-01.py
+ cd Fire
  
  ls
  
- python ItsRakibRoni-01.py
+ python Roni-Fire.py
 ```
 #### Screenshots:
  
@@ -47,4 +44,4 @@ AUTHOR:
 #### Tools Languages :
  
  
-### ❤️Thanks For Visiting✅
+### 🧐Thanks For Visiting🐅
