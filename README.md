@@ -27,8 +27,8 @@ AUTHOR:
  pip install futures
  pip install mechanize
  cd $HOME 
- rm -rf ItsRakibRoni-01.py
- https://github.com/rakibroni2468/Fire
+ rm -rf Fire
+ git clone https://github.com/Fire/Roni-Fire.py
  
  cd Fire
  
