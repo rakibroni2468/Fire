@@ -28,7 +28,7 @@ AUTHOR:
  pip install mechanize
  cd $HOME 
  rm -rf ItsRakibRoni-01.py
- git clone https://github.com/Fire/Roni-Fire.py
+ https://github.com/rakibroni2468/Fire
  
  cd Fire
  
