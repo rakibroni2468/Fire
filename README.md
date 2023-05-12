@@ -2,7 +2,7 @@
  
  
  
-Welcome
+🇧🇩Welcome🎭
 --------|
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
  
@@ -30,14 +30,14 @@ AUTHOR:
  pip install futures
  pip install mechanize
  cd $HOME 
- rm -rf ItsRakibRoni-01.py
+ rm -rf Fire
  git clone https://github.com/rakibroni2468/ItsRakibRoni-01.py
  
- cd ItsRakibRoni-01.py
+ cd Fire
  
  ls
  
- python ItsRakibRoni-01.py
+ python Roni-Fire.py
 ```
 #### Screenshots:
  
@@ -47,4 +47,4 @@ AUTHOR:
 #### Tools Languages :
  
  
-### Thanks For Visiting
+### ❤️Thanks For Visiting✅
